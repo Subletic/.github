@@ -11,5 +11,5 @@ This project is a two semester collaboration of 6 Bachelor students and 2 Master
 | [Finn Johann Romeis](https://github.com/FiJoRom) | [Luca Niklas Franke](https://github.com/lfranke42) | [Chantal Bley](https://github.com/chanti01) | [Christoph Neidahl](https://github.com/OPNA2608) | [Amine Jegani](https://github.com/ajegani) | [Pascal Fabian Dittes](https://github.com/Pascal-Dittes) |
 | ------------------------------------------------ | -------------------------------------------------- | ------------------------------------------- | ------------------------------------------------ | ------------------------------------------ | -------------------------------------------------------- |
 
-![correction-page](main_page.png)
-![configuration-page](configuration.png)
+![correction-page](https://github.com/Subletic/.github/blob/main/profile/main_page.png)
+![configuration-page](https://github.com/Subletic/.github/blob/main/profile/configuration.png)
